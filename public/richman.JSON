@@ -1,0 +1,72 @@
+[
+    {"name":"Bernard Arnault & family",
+        "age":72,"country":"France",
+        "Industry":"Technology",
+        "Wealth":148,
+        "key":1,
+        "sourch":"LVMH",
+        "img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc05518ca425400079c659f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4000%26cropY1%3D1209%26cropY2%3D5212"
+    },
+
+    {
+        "name":"Bill Gates",
+        "age":65,
+        "country":"United States",
+        "Industry":"Technology",
+        "Wealth":"165",
+        "key":2,
+        "sourch":"Microsoft",
+        "img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987"
+        },
+        {
+            "name":"Mark Zuckerberg",
+            "age":37,
+            "country":"United States",
+            "Industry":"Technology",
+            "Wealth":128,
+            "key":3,
+            "sourch":"Facebook",
+            "img":"https://specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401"},{"name":"Lerry page","age":46,"country":"United States","Industry":"Technology","Wealth":121,"key":4,"sourch":"google","img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817"},{"name":"Larry Ellison","age":77,"country":"United States","Industry":"Technology","Wealth":118,"key":5,"sourch":"software","img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b62cfc095010007bffea0%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4529%26cropY1%3D652%26cropY2%3D5184"
+                },
+                
+                {
+                    "name":"Jeff Bezos",
+                    "age":57,
+                    "country":"United States",
+                    "Industry":"Technology",
+                    "Wealth":198,
+                    "key":6,
+                    "sourch":"Amazon",
+                    "img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"},{"name":"Elon Musk","age":50,"country":"United States","Industry":"Technology","Wealth":199.6,"key":7,"sourch":"Tesla","img":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704"
+                        },
+                        {
+                            "name":"Sergey Brin",
+                            "age":44,
+                            "country":"United States",
+                            "Industry":"Technology",
+                            "Wealth":116.6,
+                            "key":8,
+                            "sourch":"google",
+                            "img":"https://specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582"
+                            },
+                            {
+                                "name":"Warren Buffett",
+                                "age":91,
+                                "country":"United States",
+                                "Industry":"Technology",
+                                "Wealth":100.8,
+                                "key":9,
+                                "sourch":"Berkshire Hathaway",
+                                "img":"https://specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082"},{"name":"Mukesh Ambani","age":64,"country":"India","Industry":"Technology","Wealth":96,"key":10,"sourch":"diversified","img":"https://specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089"
+                                    },
+                                    {
+                                        "name":"Steve Ballmer",
+                                        "age":65,
+                                        "country":"United States",
+                                        "Industry":"Technology",
+                                        "Wealth":86,
+                                        "key":12,
+                                        "sourch":"Microsoft",
+                                        "img":"https://specials-images.forbesimg.com/imageserve/59d50c47a7ea436b47b36d66/416x416.jpg?background=000000&cropX1=553&cropX2=2940&cropY1=322&cropY2=2708"},{"name":"Amancio Ortega","age":65,"country":"Spain","Industry":"Technology","Wealth":84,"key":11,"sourch":"Zara","img":"https://specials-images.forbesimg.com/imageserve/5c76b94131358e35dd27748e/416x416.jpg?background=000000&cropX1=179&cropX2=2232&cropY1=216&cropY2=2269"
+                                            }
+                                        ]
